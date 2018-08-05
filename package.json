@@ -4,6 +4,7 @@
 	"description": "A project that I hope FCC accepts as valid",
   "keywords": [ "freecodecamp", "example", "words" ],
   "license": "MIT",
+	"version": "1.2",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
